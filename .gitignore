@@ -1,0 +1,11 @@
+Temp/*
+Logs/*
+obj/*
+Library/PackageCache/*
+Library/ShaderCache/*
+Library/StateCache/*
+Library/metadata/*
+Library/*.log
+.vs/*
+Library/ScriptAssemblies/*
+Library/ShaderCache.db
